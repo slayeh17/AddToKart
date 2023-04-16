@@ -1,7 +1,7 @@
 # Orange Cart
 
 ## What is it ?
-This is a web app that I made by learning about Firebase from freeCodeCamp's tutorial on Firebase.
+This is a web app that I made by learning about Firebase from freeCodeCamp's [tutorial](https://youtu.be/UFD4SP91tSM) on Firebase.
 
 ## What does it do ?
 This web app that lets the user to keep track of any item they want to purchase, and once done they can delete that item by double tapping on it.
