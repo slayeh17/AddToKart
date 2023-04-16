@@ -22,3 +22,4 @@ https://user-images.githubusercontent.com/104914725/232317593-a816e1ca-cae2-4cf1
 ## Things I learned by making this project
   1. How to use Firebase
   2. How to make a favicon
+  3. How to use Netlify
