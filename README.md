@@ -17,7 +17,7 @@ To delete an item just double tap/click on it
 
 https://user-images.githubusercontent.com/104914725/232317593-a816e1ca-cae2-4cf1-8279-35e6a9b73a77.mp4
 
-## Note: There is only one database here so anyone can see anyone's list and anyone can delete anyone's items.
+## Please note that all users can view and delete items in the same database.
 
 ## Things I learned by making this project
   1. How to use Firebase
